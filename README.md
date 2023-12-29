@@ -12,6 +12,9 @@
   
 ![VGG 16 Architecture](https://github.com/Alpha-131/Pneumonia-Detection-CNN/assets/92028472/d3078165-bf73-4d7b-8d9a-8fea1fedfe01){:width="300px"}
 
+<img src="https://github.com/Alpha-131/Pneumonia-Detection-CNN/assets/92028472/d3078165-bf73-4d7b-8d9a-8fea1fedfe01" width="300">
+
+
 
 
 ### ResNet152V2
