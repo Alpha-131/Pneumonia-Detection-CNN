@@ -10,10 +10,7 @@
 - Suitable for pneumonia detection by extracting relevant features from chest X-ray images.
 - Architecture :
   
-![VGG 16 Architecture](https://github.com/Alpha-131/Pneumonia-Detection-CNN/assets/92028472/d3078165-bf73-4d7b-8d9a-8fea1fedfe01){:width="300px"}
-
-<img src="https://github.com/Alpha-131/Pneumonia-Detection-CNN/assets/92028472/d3078165-bf73-4d7b-8d9a-8fea1fedfe01" width="300">
-
+<img src="https://github.com/Alpha-131/Pneumonia-Detection-CNN/assets/92028472/d3078165-bf73-4d7b-8d9a-8fea1fedfe01" width="800">
 
 
 
@@ -25,7 +22,7 @@
 - Transfer learning is facilitated by freezing the pre-trained layers and adding a custom head for specific tasks.
 - Architecture :
 
-![ResNet152v2 Architecture](https://github.com/Alpha-131/Pneumonia-Detection-CNN/assets/92028472/e34aebcf-7401-4ada-97e0-e8f67d149ffa){:width="300px"}
+<img src="https://github.com/Alpha-131/Pneumonia-Detection-CNN/assets/92028472/e34aebcf-7401-4ada-97e0-e8f67d149ffa" width="800">
 
 
 
